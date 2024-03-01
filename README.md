@@ -1,4 +1,4 @@
-dependencies:
+### Dependencies
     1. Hyprland:
         - brightnessctl
         - pamixer
