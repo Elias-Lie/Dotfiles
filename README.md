@@ -1,5 +1,5 @@
 dependencies:
-    - Hyprland:
+    1. Hyprland:
         - brightnessctl
         - pamixer
         - slurp
@@ -10,9 +10,9 @@ dependencies:
         - swaybg
         - qt5-wayland
         - qt6-wayland
-    - Neovim:
+    2. Neovim:
         - gcc
         - ripgrep
         - tree-sitter
-    - Waybar/foot:
+    3. Waybar/foot:
         - JetBrainsNF Mono
